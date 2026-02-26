@@ -1,0 +1,13 @@
+# Arduino / ESP32
+build/
+*.elf
+*.bin
+*.map
+.vscode/
+.idea/
+*.code-workspace
+
+# Системные
+.DS_Store
+Thumbs.db
+*.log
